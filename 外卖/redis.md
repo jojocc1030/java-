@@ -14,3 +14,20 @@ Redis存储的是**key-value**结构的数据，其中key是字符串类型，va
 
 使用**Spring Data Redis**作为redis在java的客户端
 
+
+### Spring Cache
+
+Spring Cache 是一个框架，实现了**基于注解的缓存功能**，只需要简单地加一个注解，就能实现缓存功能。
+目的是为了简化缓存代码开发。
+![[Pasted image 20240320141415.png]]
+@CachePut 和 @Cacheable 区别： @CachePut 只是放； @Cacheable 如果没有就放，有的话就取
+
+```java
+@Cacheable(cacheNames = "setmealCache",key = "#categoryId") //key: setmealCache::100
+```
+```java
+@CacheEvict(cacheNames = "setmealCache",key = "#setmealDTO.categoryId")
+```
+
+
+

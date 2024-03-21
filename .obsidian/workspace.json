@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a0259766c7ef3fad",
+        "id": "906237ed5825fce8",
         "type": "tabs",
         "children": [
           {
-            "id": "35439c424453a066",
+            "id": "fe4983ff91ef999a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode/单向双指针-滑动窗口.md",
+                "file": "简历/外卖简历.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a403d5aabec8db11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "外卖/外卖细碎知识点.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode/单向双指针-滑动窗口.md",
+                "file": "简历/外卖简历.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leetcode/单向双指针-滑动窗口.md",
+                "file": "简历/外卖简历.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leetcode/单向双指针-滑动窗口.md"
+                "file": "简历/外卖简历.md"
               }
             }
           }
@@ -147,18 +159,32 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "59eda4eaa79ecc51",
+  "active": "fe4983ff91ef999a",
   "lastOpenFiles": [
-    "leetcode/新建文件夹",
-    "leetcode/单向双指针-滑动窗口.md",
-    "leetcode",
     "外卖/外卖细碎知识点.md",
-    "简历/外卖简历.md",
+    "快捷键.md",
+    "八股/细碎知识点.md",
     "外卖/redis.md",
+    "八股/数据库.md",
+    "简历/外卖简历.md",
+    "().md",
+    "简历/待完成.md",
+    "简历/推荐系统.md",
+    "简历/images/Pasted image 20240321023827.png",
+    "简历/images/Pasted image 20240321013017.png",
+    "简历/images",
+    "外卖/images/Pasted image 20240320220008.png",
+    "八股/Java SE.md",
+    "八股/数据结构.md",
+    "八股/images/Pasted image 20240320190742.png",
+    "八股/images",
+    "未命名",
+    "外卖/images/Pasted image 20240320141415.png",
+    "leetcode/单向双指针-滑动窗口.md",
+    "leetcode/新建文件夹",
+    "leetcode",
     "未命名.canvas",
     "2024-03-20.md",
-    "八股/数据结构.md",
-    "八股/Java SE.md",
     "八股",
     "简历",
     "外卖",
@@ -171,7 +197,6 @@
     "苍穹外卖-day05.md",
     "Welcome.md",
     "2024-03-18.md",
-    "Obsidian.lnk",
     "create a link.md"
   ]
 }

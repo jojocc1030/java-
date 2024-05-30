@@ -8,30 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe4983ff91ef999a",
+            "id": "b11ef6ecc2362cce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "简历/外卖简历.md",
+                "file": "简历/待完成.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a403d5aabec8db11",
+            "id": "240368c9a80c8bdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "外卖/外卖细碎知识点.md",
+                "file": "简历投递/简历介绍相关问题.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: 外卖",
+                "query": "synch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "简历/外卖简历.md",
+                "file": "简历投递/简历介绍相关问题.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "简历/外卖简历.md",
+                "file": "简历投递/简历介绍相关问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "简历/外卖简历.md"
+                "file": "简历投递/简历介绍相关问题.md"
               }
             }
           }
@@ -159,28 +160,44 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fe4983ff91ef999a",
+  "active": "240368c9a80c8bdf",
   "lastOpenFiles": [
-    "外卖/外卖细碎知识点.md",
-    "快捷键.md",
-    "八股/细碎知识点.md",
-    "外卖/redis.md",
-    "八股/数据库.md",
-    "简历/外卖简历.md",
-    "().md",
-    "简历/待完成.md",
-    "简历/推荐系统.md",
-    "简历/images/Pasted image 20240321023827.png",
-    "简历/images/Pasted image 20240321013017.png",
-    "简历/images",
-    "外卖/images/Pasted image 20240320220008.png",
-    "八股/Java SE.md",
+    "八股/JVM.md",
     "八股/数据结构.md",
-    "八股/images/Pasted image 20240320190742.png",
-    "八股/images",
-    "未命名",
-    "外卖/images/Pasted image 20240320141415.png",
+    "八股/细碎知识点.md",
+    "简历投递/简历介绍相关问题.md",
+    "八股/Java并发.md",
+    "简历/推荐系统.md",
+    "简历/面试记录/4.3 美团面经.md",
+    "八股/数据库.md",
+    "八股/Java SE.md",
+    "八股/计算机网络.md",
+    "外卖/外卖细碎知识点.md",
+    "简历/待完成.md",
+    "简历/简历内容.md",
+    "简历/外卖简历.md",
     "leetcode/单向双指针-滑动窗口.md",
+    "leetcode/hot 100.md",
+    "简历/images/Pasted image 20240514123534.png",
+    "简历/images/Pasted image 20240514123148.png",
+    "外卖/redis.md",
+    "leetcode/images/Pasted image 20240512110607.png",
+    "leetcode/images",
+    "简历/images/Pasted image 20240325120245.png",
+    "简历/images/Pasted image 20240325115526.png",
+    "简历/images/Pasted image 20240321013017.png",
+    "简历/images/Pasted image 20240321023827.png",
+    "简历/images/Pasted image 20240404154710.png",
+    "简历/images/Pasted image 20240404171635.png",
+    "简历/images/Pasted image 20240325120501.png",
+    "快捷键.md",
+    "手撕.md",
+    "八股/Spring.md",
+    "简历/面试记录",
+    "简历投递",
+    "().md",
+    "简历/images",
+    "八股/images",
     "leetcode/新建文件夹",
     "leetcode",
     "未命名.canvas",
@@ -188,12 +205,6 @@
     "八股",
     "简历",
     "外卖",
-    "外卖/images/Pasted image 20240319143346.png",
-    "外卖/images/Pasted image 20240318130603.png",
-    "外卖/images/Pasted image 20240318132231.png",
-    "外卖/images",
-    "iamges/Pasted image 20240318132116.png",
-    "iamges",
     "苍穹外卖-day05.md",
     "Welcome.md",
     "2024-03-18.md",

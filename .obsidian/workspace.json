@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "906237ed5825fce8",
+        "id": "46d46600044f9e65",
         "type": "tabs",
         "children": [
           {
-            "id": "b11ef6ecc2362cce",
+            "id": "f2634db0526313d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "简历/待完成.md",
+                "file": "实习/笔记.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "240368c9a80c8bdf",
+            "id": "91d2cbfab557b1cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,6 +28,26 @@
                 "file": "简历投递/简历介绍相关问题.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "8aa4310f25364327",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "实习/images/Pasted image 20240612094935.png"
+              }
+            }
+          },
+          {
+            "id": "d98eba9a8420a1bc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "实习/images/Pasted image 20240620095854.png"
               }
             }
           }
@@ -61,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "synch",
+                "query": "布隆过滤器",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 237.5
   },
   "right": {
     "id": "699bf419442f84b2",
@@ -141,6 +161,14 @@
                 "file": "简历投递/简历介绍相关问题.md"
               }
             }
+          },
+          {
+            "id": "ba189e92f31bd968",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -160,54 +188,54 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "240368c9a80c8bdf",
+  "active": "59eda4eaa79ecc51",
   "lastOpenFiles": [
-    "八股/JVM.md",
-    "八股/数据结构.md",
-    "八股/细碎知识点.md",
-    "简历投递/简历介绍相关问题.md",
-    "八股/Java并发.md",
-    "简历/推荐系统.md",
-    "简历/面试记录/4.3 美团面经.md",
-    "八股/数据库.md",
-    "八股/Java SE.md",
-    "八股/计算机网络.md",
-    "外卖/外卖细碎知识点.md",
     "简历/待完成.md",
+    "外卖/外卖细碎知识点.md",
     "简历/简历内容.md",
     "简历/外卖简历.md",
-    "leetcode/单向双指针-滑动窗口.md",
-    "leetcode/hot 100.md",
-    "简历/images/Pasted image 20240514123534.png",
-    "简历/images/Pasted image 20240514123148.png",
-    "外卖/redis.md",
-    "leetcode/images/Pasted image 20240512110607.png",
-    "leetcode/images",
-    "简历/images/Pasted image 20240325120245.png",
-    "简历/images/Pasted image 20240325115526.png",
-    "简历/images/Pasted image 20240321013017.png",
-    "简历/images/Pasted image 20240321023827.png",
-    "简历/images/Pasted image 20240404154710.png",
-    "简历/images/Pasted image 20240404171635.png",
-    "简历/images/Pasted image 20240325120501.png",
+    "实习/upf性能优化.md",
+    "IS5126/fairprice & 盒马.md",
+    "IS5126/paylah & 支付宝.md",
     "快捷键.md",
-    "手撕.md",
+    "八股/Java SE.md",
+    "IS5126",
+    "八股/Java并发.md",
+    "八股/JVM.md",
+    "八股/Redis面试题-参考回答.md",
+    "实习/笔记.md",
+    "实习/机械云.md",
+    "实习/APN 配置对比.md",
+    "实习/images/Pasted image 20240618111546.png",
+    "实习/images/Pasted image 20240612094935.png",
+    "实习/images/Pasted image 20240620095854.png",
+    "实习/images/Pasted image 20240617110319.png",
+    "实习/images/Pasted image 20240613135817.png",
+    "实习/images/Pasted image 20240612155940.png",
+    "八股/细碎知识点.md",
+    "实习/images/Pasted image 20240611144752.png",
+    "实习/images",
+    "八股/计算机网络.md",
+    "八股/操作系统.md",
+    "实习",
     "八股/Spring.md",
+    "未命名思维导图 1.md",
+    "八股/images/存储区分级.webp",
+    "未命名思维导图.md",
+    "2024-W22.md",
+    "简历/images/Pasted image 20240514123148.png",
+    "简历/images/why-redis-so-fast-TbWX24ja.jpg",
+    "八股/ppt11F6.tmp",
+    "八股/~$02-Redis篇.pptx",
+    "leetcode/hot 100.md",
+    "简历/推荐系统.md",
+    "leetcode/手撕.md",
+    "leetcode/单向双指针-滑动窗口.md",
+    "leetcode/images",
     "简历/面试记录",
     "简历投递",
-    "().md",
     "简历/images",
     "八股/images",
-    "leetcode/新建文件夹",
-    "leetcode",
-    "未命名.canvas",
-    "2024-03-20.md",
-    "八股",
-    "简历",
-    "外卖",
-    "苍穹外卖-day05.md",
-    "Welcome.md",
-    "2024-03-18.md",
-    "create a link.md"
+    "未命名.canvas"
   ]
 }
